@@ -1,0 +1,26 @@
+{
+  "name": "todolist",
+  "version": "1.0.0",
+  "description": "Todolist app for web browser",
+  "main": "index.js",
+  "scripts": {
+    "test": "first comment"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/letheky/Todolist.git"
+  },
+  "keywords": [
+    "todolist"
+  ],
+  "author": "letheky",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/letheky/Todolist/issues"
+  },
+  "homepage": "https://github.com/letheky/Todolist#readme",
+  "devDependencies": {
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1"
+  }
+}
